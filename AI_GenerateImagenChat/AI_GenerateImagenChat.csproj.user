@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_LastSelectedProfileId>C:\Users\LENOVO\OneDrive\Máy tính\UngDungTaoAnhAI-main\DoAn-MonC#\Properties\PublishProfiles\FolderProfile.pubxml</_LastSelectedProfileId>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Update="Chat.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ChatHistory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ImageHistory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MainHome.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

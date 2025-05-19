@@ -1,0 +1,7 @@
+C:\Users\LENOVO\OneDrive\Máy tính\AI\AI_GenerateImagenChat\obj\Debug\net8.0-windows\AI_GenerateImagenChat.csproj.AssemblyReference.cache
+C:\Users\LENOVO\OneDrive\Máy tính\AI\AI_GenerateImagenChat\obj\Debug\net8.0-windows\AI_GenerateImagenChat.Chat.resources
+C:\Users\LENOVO\OneDrive\Máy tính\AI\AI_GenerateImagenChat\obj\Debug\net8.0-windows\AI_GenerateImagenChat.ChatHistory.resources
+C:\Users\LENOVO\OneDrive\Máy tính\AI\AI_GenerateImagenChat\obj\Debug\net8.0-windows\AI_GenerateImagenChat.ImageHistory.resources
+C:\Users\LENOVO\OneDrive\Máy tính\AI\AI_GenerateImagenChat\obj\Debug\net8.0-windows\AI_GenerateImagenChat.Dangnhap.resources
+C:\Users\LENOVO\OneDrive\Máy tính\AI\AI_GenerateImagenChat\obj\Debug\net8.0-windows\AI_GenerateImagenChat.MainHome.resources
+C:\Users\LENOVO\OneDrive\Máy tính\AI\AI_GenerateImagenChat\obj\Debug\net8.0-windows\AI_GenerateImagenChat.csproj.GenerateResource.cache
